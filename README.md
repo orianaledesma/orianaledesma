@@ -49,10 +49,18 @@ I am a **Senior Front-end Developer** with 5+ years of experience specializing i
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orianaledesma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orianaledesma&layout=compact&theme=radical&langs_count=6" />
+### 💻 Professional Experience & Core Stack
+> **Note:** My most impactful work resides in private enterprise repositories. Over the last 5+ years, I have engineered scalable solutions for international firms, focusing on:
+
+- 🛡️ **Architecture:** Clean Architecture, Modular Design, and Standalone Components.
+- ⚡ **Performance:** Optimization of Core Web Vitals and RxJS stream management.
+- 🧪 **Quality:** Unit Testing (Jest/Karma) and E2E (Cypress).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---

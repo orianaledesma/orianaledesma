@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078d4&height=200&section=header&text=Oriana%20Ledesma&fontSize=70&animation=fadeIn" />
-  
+ 
   <h3>🚀 Senior Front-end Engineer | Angular Expert | Travel-Tech Founder</h3>
   
   <p align="center">

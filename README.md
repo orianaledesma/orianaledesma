@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/oriana-ledesma/"><img src="https://img.shields.io/badge/LinkedIn-0B1628?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
 <a href="https://orianaledesma.dev"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=googlechrome&logoColor=0B1628" /></a>
 <a href="https://exploriando.page/"><img src="https://img.shields.io/badge/Exploriando-5EEAD4?style=for-the-badge&logoColor=0B1628" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-0B1628?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
+<a href="mailto:hello@orianaledesma.dev"><img src="https://img.shields.io/badge/Email-0B1628?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
 </p>
 
 </div>

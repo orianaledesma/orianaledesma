@@ -54,8 +54,4 @@ Alongside my engineering career I build and ship my own products and take on sel
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=orianaledesma&show_icons=true&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=ffffff&bg_color=0B1628" alt="Oriana's GitHub stats" />
-</div>
-
 <p align="center"><sub>Senior Front-End Engineer · Angular & React · open to opportunities</sub></p>
